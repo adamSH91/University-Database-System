@@ -166,7 +166,7 @@ public class AddNewUndergraduateStudentForm {
                     }
                 }
                 else{
-                    JOptionPane.showMessageDialog(null, "No more students can be admitted to Serraj University!");
+                    JOptionPane.showMessageDialog(null, "No more students can be admitted to the university!");
                 }
                 JOptionPane.showMessageDialog(null, "Undergraduate Student has been added to the database!");
                 fullNameField.setText("");
